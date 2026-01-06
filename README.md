@@ -12,7 +12,7 @@ Code for **"KAMR: Grounding Generation via Knowledge-Aligned Multi-hop Retrieval
 ### 1) Build the pretraining dataset
 ```bash
 python augment.py
-```bash
+```
 
 ### 2) Pretrain the retriever
 ```bash
