@@ -17,17 +17,17 @@ python augment.py
 ### 2) Pretrain the retriever
 ```bash
 python pretrain.py
-
+```
 
 ### 3) Run retrieval inference (batch)
 ```bash
 bash run_retr.sh
-
+```
 
 ### 4) Run LLM generation (batch)
 ```bash
 bash run_generation.sh
-
+```
 
 ## Notes
 
